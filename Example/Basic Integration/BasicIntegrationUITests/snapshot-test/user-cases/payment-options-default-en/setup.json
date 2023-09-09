@@ -1,0 +1,9 @@
+{
+    "launch_arguments": [
+        "-StripePublishableKey", "pk_test_6Q7qTzl8OkUj5K5ArgayVsFD00Sa5AHMj3",
+        "-StripeBackendBaseURL", "https://stp-mobile-legacy-test-backend-17.stripedemos.com/"
+    ],
+    "launch_environment": {
+        "UITesting": "true"
+    }
+}

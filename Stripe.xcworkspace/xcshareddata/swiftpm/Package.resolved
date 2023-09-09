@@ -26,6 +26,15 @@
         "branch" : "master",
         "revision" : "94cf8e1d9e38b0edd580ddc699dda23a7bf66515"
       }
+    },
+    {
+      "identity" : "snapshottest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jacquealvesb/SnapshotTest",
+      "state" : {
+        "branch" : "first-tests",
+        "revision" : "614771813514b02337486ae08d9aa25190de693d"
+      }
     }
   ],
   "version" : 2

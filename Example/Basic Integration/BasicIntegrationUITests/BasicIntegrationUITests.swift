@@ -128,7 +128,7 @@ class BasicIntegrationUITests: XCTestCase {
 
         let cardNumberField = tablesQuery.textFields["card number"]
         let cvcField = tablesQuery.textFields["CVC"]
-        let zipField = tablesQuery.textFields["ZIP"]
+        let zipField = tablesQuery.textFields["Postal code"]
         cardNumberField.tapWhenHittableInTestCase(self)
         cardNumberField.typeText("4000000000000069")
         let expirationDateField = tablesQuery.textFields["expiration date"]
