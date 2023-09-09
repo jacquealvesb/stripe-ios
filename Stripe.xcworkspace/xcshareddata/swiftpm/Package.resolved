@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jacquealvesb/SnapshotTest",
       "state" : {
-        "branch" : "first-tests",
-        "revision" : "614771813514b02337486ae08d9aa25190de693d"
+        "branch" : "rename-project",
+        "revision" : "5884ce6216956e4f86e79e137682e622e05e9011"
       }
     }
   ],

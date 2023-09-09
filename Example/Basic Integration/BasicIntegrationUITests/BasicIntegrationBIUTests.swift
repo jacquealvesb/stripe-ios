@@ -5,6 +5,6 @@
 //  Created by Jacqueline Alves on 08/09/23.
 //
 
-import SnapshotTest
+import BIUTest
 
-class BasicIntegrationBIUTests: SnapshotTestCase {}
+class BasicIntegrationBIUTests: BIUTestCase {}
