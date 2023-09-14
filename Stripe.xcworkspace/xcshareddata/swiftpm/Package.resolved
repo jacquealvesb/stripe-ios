@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "biutest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jacquealvesb/BIUTest",
+      "state" : {
+        "branch" : "main",
+        "revision" : "081d41819a75b870452177d3ac334365d8ba8bb1"
+      }
+    },
+    {
       "identity" : "ios-snapshot-test-case",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/uber/ios-snapshot-test-case",
@@ -25,15 +34,6 @@
       "state" : {
         "branch" : "master",
         "revision" : "94cf8e1d9e38b0edd580ddc699dda23a7bf66515"
-      }
-    },
-    {
-      "identity" : "snapshottest",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jacquealvesb/SnapshotTest",
-      "state" : {
-        "branch" : "rename-project",
-        "revision" : "5884ce6216956e4f86e79e137682e622e05e9011"
       }
     }
   ],
